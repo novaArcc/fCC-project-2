@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fCC-project-2/static/css/main.469c9046.css",
+    "main.js": "/fCC-project-2/static/js/main.bc39d78f.js",
+    "static/js/453.cf94360e.chunk.js": "/fCC-project-2/static/js/453.cf94360e.chunk.js",
+    "static/media/lisa-white-bg.png": "/fCC-project-2/static/media/lisa-white-bg.9ebca3e97385f16d43a8.png",
+    "index.html": "/fCC-project-2/index.html",
+    "main.469c9046.css.map": "/fCC-project-2/static/css/main.469c9046.css.map",
+    "main.bc39d78f.js.map": "/fCC-project-2/static/js/main.bc39d78f.js.map",
+    "453.cf94360e.chunk.js.map": "/fCC-project-2/static/js/453.cf94360e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469c9046.css",
+    "static/js/main.bc39d78f.js"
+  ]
+}
